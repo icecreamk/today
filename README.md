@@ -1,2 +1,2 @@
-# todoy
+# today
 每天学习
